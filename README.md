@@ -37,7 +37,7 @@ Bienvenido a mi portafolio. Aquí documento mis **proyectos, laboratorios y apre
 
 ### 4. Laboratorio de Redes / Seguridad en Coursera
 - **Objetivo:** Configuración de redes y pruebas de seguridad.  
-- **Carpeta del proyecto:** [labs/coursera](labs/coursera/READ$/README.md)  
+- **Carpeta del proyecto:** [labs/coursera](labs/coursera/README.md)  
 
 ### 5. Laboratorio de MySQL
 - **Objetivo:** Consultas avanzadas, reportes y manejo de bases de datos.  
