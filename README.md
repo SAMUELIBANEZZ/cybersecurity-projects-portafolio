@@ -3,7 +3,6 @@
 
 Bienvenido a mi portafolio. Aquí documento mis **proyectos, laboratorios y aprendizajes** en ciberseguridad y programación.
 
-Bienvenido a mi portafolio. Aquí documento mis proyectos, laboratorios y aprendizajes en ciberseguridad y programación.
 
 
 ---
