@@ -64,8 +64,11 @@ Bienvenido a mi portafolio. Aquí documento mis proyectos, laboratorios y aprend
 
 ### 9. Laboratorio de MATLAB
 - **Objetivo:** Análisis de datos, simulaciones y cálculos matemáticos.  
-- **Carpeta del proyecto:** `labs/matlab`  
+- **Carpeta del proyecto:** `labs/matlab`
 
+---
+  
+## 📂 Proyectos de Ciberseguridad
 1. Escaneo de red con Nmap [projects/nmap-scan](projects/nmap-scan/README.md)
 2. Captura de credenciales FTP [projects/ftp-credentials-capture](projects/ftp-credentials-capture/README.md)
 3. Laboratorio DVWA: SQL Injection [labs/dvwa](labs/dvwa/README.md)
@@ -85,8 +88,6 @@ Bienvenido a mi portafolio. Aquí documento mis proyectos, laboratorios y aprend
 
 ## 📈 Objetivo
 
-Documentar cada proyecto y laboratorio, mostrando **habilidades prácticas en ciberseguridad y programación**, y construir un portafolio profesional para futuras oportunidades.  
-=======
 Documentar cada proyecto y laboratorio, mostrando habilidades prácticas en ciberseguridad y programación, y construir un portafolio profesional para futuras oportunidades.
 
 
