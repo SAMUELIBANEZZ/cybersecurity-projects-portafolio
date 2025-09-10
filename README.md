@@ -1,18 +1,30 @@
 # 🛡️ Portafolio de Ciberseguridad y Programación
 
+<<<<<<< HEAD
 Bienvenido a mi portafolio. Aquí documento mis **proyectos, laboratorios y aprendizajes** en ciberseguridad y programación.
+=======
+Bienvenido a mi portafolio. Aquí documento mis proyectos, laboratorios y aprendizajes en ciberseguridad y programación.
+>>>>>>> c05c4b5 (Estructura completa del portafolio con README iniciales)
 
 ---
 
 ## 👤 Sobre mí
+<<<<<<< HEAD
 - 💻 Apasionado por la ciberseguridad y el desarrollo de software.  
 - 🔐 Experiencia en: Kali Linux, Nmap, Wireshark, Bettercap, DVWA.  
 - 🖥️ Programación en: MySQL, Java, Python, C#, MATLAB.  
 - 📚 Actualmente aprendiendo: pentesting avanzado, análisis de vulnerabilidades y desarrollo de aplicaciones seguras.  
+=======
+- 💻 Apasionado por la ciberseguridad y el desarrollo de software.
+- 🔐 Experiencia en: Kali Linux, Nmap, Wireshark, Bettercap, DVWA.
+- 🖥️ Programación en: MySQL, Java, Python, C#, MATLAB.
+- 📚 Actualmente aprendiendo: pentesting avanzado, análisis de vulnerabilidades y desarrollo de aplicaciones seguras.
+>>>>>>> c05c4b5 (Estructura completa del portafolio con README iniciales)
 
 ---
 
 ## 📂 Proyectos de Ciberseguridad
+<<<<<<< HEAD
 
 ### 1. Escaneo de red con Nmap
 - **Objetivo:** Identificar hosts y servicios activos en la red.  
@@ -53,15 +65,36 @@ Bienvenido a mi portafolio. Aquí documento mis **proyectos, laboratorios y apre
 ### 9. Laboratorio de MATLAB
 - **Objetivo:** Análisis de datos, simulaciones y cálculos matemáticos.  
 - **Carpeta del proyecto:** `labs/matlab`  
+=======
+1. Escaneo de red con Nmap [projects/nmap-scan](projects/nmap-scan/README.md)
+2. Captura de credenciales FTP [projects/ftp-credentials-capture](projects/ftp-credentials-capture/README.md)
+3. Laboratorio DVWA: SQL Injection [labs/dvwa](labs/dvwa/README.md)
+
+---
+
+## 📂 Laboratorios de Cursos y Programación
+4. Laboratorio de Redes / Seguridad Coursera [labs/coursera](labs/coursera/README.md)
+5. Laboratorio MySQL [labs/mysql](labs/mysql/README.md)
+6. Laboratorio Java [labs/java](labs/java/README.md)
+7. Laboratorio Python [labs/python](labs/python/README.md)
+8. Laboratorio C# [labs/csharp](labs/csharp/README.md)
+9. Laboratorio MATLAB [labs/matlab](labs/matlab/README.md)
+>>>>>>> c05c4b5 (Estructura completa del portafolio con README iniciales)
 
 ---
 
 ## 📈 Objetivo
+<<<<<<< HEAD
 Documentar cada proyecto y laboratorio, mostrando **habilidades prácticas en ciberseguridad y programación**, y construir un portafolio profesional para futuras oportunidades.  
+=======
+Documentar cada proyecto y laboratorio, mostrando habilidades prácticas en ciberseguridad y programación, y construir un portafolio profesional para futuras oportunidades.
+>>>>>>> c05c4b5 (Estructura completa del portafolio con README iniciales)
 
 ---
 
 ## 📬 Contacto
+<<<<<<< HEAD
 - GitHub: https://github.com/SAMUELIBANEZZ
 - LinkedIn: www.linkedin.com/in/samuel-ibañez-rincón-b30a90365 
 - Email: samuelibanezrincon@gamil.com
+>>>>>>> c05c4b5 (Estructura completa del portafolio con README iniciales)
