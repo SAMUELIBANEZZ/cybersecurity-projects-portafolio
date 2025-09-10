@@ -1,12 +1,12 @@
 # 🛡️ Portafolio de Ciberseguridad
 
-Bienvenido a mi portafolio de ciberseguridad. Aquí documento mis **proyectos, laboratorios y aprendizajes** en seguridad informática.
+Bienvenido a mi portafolio de ciberseguridad. Aquí documento mis **proyectos, laboratorios y aprendizajes** en seguridad informática y demás estudios.
 
 ---
 
 ## 👤 Sobre mí
 - 💻 Entusiasta de la ciberseguridad y pruebas de penetración.  
-- 🔐 Experiencia en: Kali Linux, Nmap, Wireshark, Bettercap, DVWA.  
+- 🔐 Experiencia en: Kali Linux, Nmap, Wireshark, Bettercap, DVWA, Shodan.  
 - 📚 Actualmente aprendiendo: pentesting avanzado y análisis de vulnerabilidades.  
 
 ---
@@ -33,6 +33,6 @@ Seguir construyendo laboratorios prácticos y documentar el aprendizaje como bas
 ---
 
 ## 📬 Contacto
-- GitHub: [TuUsuario](https://github.com/TuUsuario)  
-- LinkedIn: [Tu perfil]  
-- Email: [Tu correo]
+- GitHub: https://github.com/SAMUELIBANEZZ
+- LinkedIn: www.linkedin.com/in/samuel-ibañez-rincón-b30a90365 
+- Email: samuelibanezrincon@gamil.com
