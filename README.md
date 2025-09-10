@@ -1,17 +1,18 @@
-# 🛡️ Portafolio de Ciberseguridad
+# 🛡️ Portafolio de Ciberseguridad y Programación
 
-Bienvenido a mi portafolio de ciberseguridad. Aquí documento mis **proyectos, laboratorios y aprendizajes** en seguridad informática y demás estudios.
+Bienvenido a mi portafolio. Aquí documento mis **proyectos, laboratorios y aprendizajes** en ciberseguridad y programación.
 
 ---
 
 ## 👤 Sobre mí
-- 💻 Entusiasta de la ciberseguridad y pruebas de penetración.  
-- 🔐 Experiencia en: Kali Linux, Nmap, Wireshark, Bettercap, DVWA, Shodan.  
-- 📚 Actualmente aprendiendo: pentesting avanzado y análisis de vulnerabilidades.  
+- 💻 Apasionado por la ciberseguridad y el desarrollo de software.  
+- 🔐 Experiencia en: Kali Linux, Nmap, Wireshark, Bettercap, DVWA.  
+- 🖥️ Programación en: MySQL, Java, Python, C#, MATLAB.  
+- 📚 Actualmente aprendiendo: pentesting avanzado, análisis de vulnerabilidades y desarrollo de aplicaciones seguras.  
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos de Ciberseguridad
 
 ### 1. Escaneo de red con Nmap
 - **Objetivo:** Identificar hosts y servicios activos en la red.  
@@ -27,8 +28,36 @@ Bienvenido a mi portafolio de ciberseguridad. Aquí documento mis **proyectos, l
 
 ---
 
+## 📂 Laboratorios de Cursos (Coursera u otros)
+
+### 4. Laboratorio de Redes / Seguridad en Coursera
+- **Objetivo:** Configuración de redes y pruebas de seguridad.  
+- **Carpeta del proyecto:** `labs/coursera-redes`  
+
+### 5. Laboratorio de MySQL
+- **Objetivo:** Consultas avanzadas, reportes y manejo de bases de datos.  
+- **Carpeta del proyecto:** `labs/mysql`  
+
+### 6. Laboratorio de Java
+- **Objetivo:** Programación orientada a objetos, estructuras de datos y algoritmos.  
+- **Carpeta del proyecto:** `labs/java`  
+
+### 7. Laboratorio de Python
+- **Objetivo:** Automatización, análisis de datos y scripting de seguridad.  
+- **Carpeta del proyecto:** `labs/python`  
+
+### 8. Laboratorio de C#
+- **Objetivo:** Desarrollo de aplicaciones de escritorio y ejercicios de programación segura.  
+- **Carpeta del proyecto:** `labs/csharp`  
+
+### 9. Laboratorio de MATLAB
+- **Objetivo:** Análisis de datos, simulaciones y cálculos matemáticos.  
+- **Carpeta del proyecto:** `labs/matlab`  
+
+---
+
 ## 📈 Objetivo
-Seguir construyendo laboratorios prácticos y documentar el aprendizaje como base para mi carrera en ciberseguridad.
+Documentar cada proyecto y laboratorio, mostrando **habilidades prácticas en ciberseguridad y programación**, y construir un portafolio profesional para futuras oportunidades.  
 
 ---
 
